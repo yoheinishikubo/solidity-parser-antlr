@@ -15,10 +15,10 @@
     "tslint": "tslint-config-prettier-check ./tslint.json"
   },
   "author": "Federico Bond <federicobond@gmail.com>",
-  "homepage": "https://github.com/federicobond/solidity-parser-antlr",
+  "homepage": "https://github.com/yoheinishikubo/solidity-parser-antlr",
   "repository": {
     "type": "git",
-    "url": "https://github.com/federicobond/solidity-parser-antlr.git"
+    "url": "https://github.com/yoheinishikubo/solidity-parser-antlr.git"
   },
   "license": "MIT",
   "devDependencies": {
