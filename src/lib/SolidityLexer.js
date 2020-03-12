@@ -1,4 +1,4 @@
-// Generated from solidity-antlr4/Solidity.g4 by ANTLR 4.7.2
+// Generated from solidity-antlr4/Solidity.g4 by ANTLR 4.8
 // jshint ignore: start
 var antlr4 = require('../antlr4/index');
 
@@ -1333,7 +1333,6 @@ SolidityLexer.prototype.ruleNames = [ "T__0", "T__1", "T__2", "T__3", "T__4",
                                       "WS", "COMMENT", "LINE_COMMENT" ];
 
 SolidityLexer.prototype.grammarFileName = "Solidity.g4";
-
 
 
 exports.SolidityLexer = SolidityLexer;
