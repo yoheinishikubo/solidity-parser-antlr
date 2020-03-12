@@ -19,7 +19,7 @@ null
 'contract'
 'interface'
 'library'
-'abstract contract'
+'abstract'
 'is'
 '('
 ')'
